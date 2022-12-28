@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+from openalias.openalias import handle_command
+
+handle_command()

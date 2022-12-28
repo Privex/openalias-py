@@ -1,0 +1,14 @@
+privex-helpers>=3.0.0
+dnspython>=2.0.0
+rich
+requests
+httpx
+
+# Unit testing
+coverage
+pytest
+pytest-cov
+codecov
+
+# Dev
+jupyter
