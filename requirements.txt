@@ -12,3 +12,7 @@ codecov
 
 # Dev
 jupyter
+twine
+setuptools
+wheel
+semver
