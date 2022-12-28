@@ -23,7 +23,7 @@ Copyright::
 
 """
 
-VERSION = '1.0.0'
+VERSION = '1.0.2'
 REPO = 'https://github.com/Privex/openalias-py'
 AUTHOR = 'Privex Inc.'
 LICENSE = "X11/MIT"
